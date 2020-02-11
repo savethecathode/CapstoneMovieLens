@@ -1,6 +1,7 @@
 # Trouble using GitHub from R Studio on Win10.
 The "push"-buttom is not enabled after clicking "commit"-button... 
 
+https://stackoverflow.com/questions/40556003/which-git-exe-should-i-reference
 
 # Try using Git/GitHub via Git-Bash:
 Open R Studio:
