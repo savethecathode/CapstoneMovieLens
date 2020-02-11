@@ -79,6 +79,18 @@ fatal: refusing to merge unrelated histories
 
 Try "cloning" github repo and then "add"+"commit"+"push" files...
 
+File>New Project
+
+Create Project: Existing Directory
+
+Project workding directory (Browse/Select): 
+
+(...thinking...)
+
+clone repo will download a dir to your local machine, then create file.Rproj in R Studio, then add-commit-push...
+
+
+
 # CapstoneMovieLens
 
 EdX Capstone 
