@@ -50,16 +50,10 @@ Even when making sure to not use [Ctrl]-V , get error msg:
 
 error: failed to push some refs to 'https://github.com/savethecathode/CapstoneMovieLens.git'
 
-hint: Updates were rejected because the remote contains work that you do
+hint: Updates were rejected because the remote contains work that you do not have locally. This is usually caused by another repository pushing to the same ref. You may want to first integrate the remote changes (e.g., 'git pull ...') before pushing again.  See the 'Note about fast-forwards' in 'git push --help' for details.
 
-hint: not have locally. This is usually caused by another repository pushing
 
-hint: to the same ref. You may want to first integrate the remote changes
-
-hint: (e.g., 'git pull ...') before pushing again.
-
-hint: See the 'Note about fast-forwards' in 'git push --help' for details.
-
+Try "pull" then "push"...
 
 # CapstoneMovieLens
 
