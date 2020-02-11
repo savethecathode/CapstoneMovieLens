@@ -53,7 +53,28 @@ error: failed to push some refs to 'https://github.com/savethecathode/CapstoneMo
 hint: Updates were rejected because the remote contains work that you do not have locally. This is usually caused by another repository pushing to the same ref. You may want to first integrate the remote changes (e.g., 'git pull ...') before pushing again.  See the 'Note about fast-forwards' in 'git push --help' for details.
 
 
-Try "pull" then "push"...
+Try "pull" before "push:
+
+warning: no common commits
+
+remote: Enumerating objects: 39, done.
+
+remote: Counting objects: 100% (39/39), done.
+
+remote: Compressing objects: 100% (38/38), done.
+
+remote: Total 39 (delta 10), reused 0 (delta 0), pack-reused 0
+
+Unpacking objects: 100% (39/39), done.
+
+From https://github.com/savethecathode/CapstoneMovieLens
+
+* branch            master     -> FETCH_HEAD
+
+* [new branch]      master     -> origin/master
+
+fatal: refusing to merge unrelated histories
+
 
 # CapstoneMovieLens
 
