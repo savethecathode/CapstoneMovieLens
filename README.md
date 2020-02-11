@@ -4,10 +4,15 @@ The push buttom is not enabled after
 
 # Try using Git/GitHub via Git-Bash:
 git init
+
 git config --global user.name "githubusername"
+
 git config --global user.email youremaill@gmail.com
+
 git add <filename>
+  
 (git status)
+
 git commit -m "type a msg"
 (git status)
 git remote add origin <https-url>
