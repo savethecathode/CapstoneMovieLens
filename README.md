@@ -44,6 +44,16 @@ Note: beware of [Ctrl]-V to paste followed by Right-Click-Past**, [Ctrl]-V repen
 https://stackoverflow.com/questions/53988638/git-fatal-protocol-https-is-not-supported
 
 
+Even when making sure to not use [Ctrl]-V , get error msg:
+ ! [rejected]        master -> master (fetch first)
+error: failed to push some refs to 'https://github.com/savethecathode/CapstoneMovieLens.git'
+hint: Updates were rejected because the remote contains work that you do
+hint: not have locally. This is usually caused by another repository pushing
+hint: to the same ref. You may want to first integrate the remote changes
+hint: (e.g., 'git pull ...') before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+
+
 # CapstoneMovieLens
 
 EdX Capstone 
