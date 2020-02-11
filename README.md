@@ -1,5 +1,5 @@
 # Trouble using GitHub from R Studio on Win10.
-The push buttom is not enabled after 
+The "push"-buttom is not enabled after clicking "commit"-button... 
 
 
 # Try using Git/GitHub via Git-Bash:
