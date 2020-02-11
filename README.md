@@ -76,6 +76,8 @@ From https://github.com/savethecathode/CapstoneMovieLens
 fatal: refusing to merge unrelated histories
 
 
+Try "cloning" github repo and then "add"+"commit"+"push" files...
+
 # CapstoneMovieLens
 
 EdX Capstone 
