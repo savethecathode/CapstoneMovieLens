@@ -29,13 +29,13 @@ git commit -m "type a msg"
 
 (git status)
 
-git remote add origin <https-url>
+git remote add origin <<https-url>>
   
 git push -u origin master
 
 Error msg: fatal: protocol 'https' is not supported
 
-git remote add origin <http-url>
+git remote add origin <<http-url>>
   
 Error msg: fatal: remote origin already exists.
 
