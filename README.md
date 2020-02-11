@@ -3,6 +3,18 @@ The push buttom is not enabled after
 
 
 # Try using Git/GitHub via Git-Bash:
+Open R Studio:
+
+File>New Project
+
+Create Project: 
+
+New Directory > New Project
+
+Specify Directory name, and parent dir, BUT do not check box for "Create a git repository"
+
+Open Git-Bash and navigate to dir of Rproj file.
+
 git init
 
 git config --global user.name "githubusername"
