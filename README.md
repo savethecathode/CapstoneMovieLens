@@ -14,14 +14,23 @@ git add <filename>
 (git status)
 
 git commit -m "type a msg"
+
 (git status)
+
 git remote add origin <https-url>
+  
 git push -u origin master
+
 Error msg: fatal: protocol 'https' is not supported
+
 git remote add origin <http-url>
+  
 Error msg: fatal: remote origin already exists.
+
+Note: beware of [Ctrl]-V to paste followed by Right-Click-Past**, [Ctrl]-V repends a hidden "^?" to the url, which is invalid, ref.:
+
 https://stackoverflow.com/questions/53988638/git-fatal-protocol-https-is-not-supported
-Note: beware of [Ctrl]-V to paste followed by Right-Click-Past**, [Ctrl]-V repends a hidden "^?" to the url, which is invalid.
+
 
 # CapstoneMovieLens
 
