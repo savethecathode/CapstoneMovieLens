@@ -77,6 +77,7 @@ From https://github.com/savethecathode/CapstoneMovieLens
 fatal: refusing to merge unrelated histories
 
 
+
 Try "cloning" github repo and then "add"+"commit"+"push" files...
 
 File>New Project
@@ -85,7 +86,9 @@ Create Project: Existing Directory
 
 Project workding directory (Browse/Select): 
 
+
 (...thoughts...)
+
 
 clone repo will download a dir to your local machine, then create file.Rproj in R Studio, then add-commit-push, get error msg:
 
