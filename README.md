@@ -85,10 +85,19 @@ Create Project: Existing Directory
 
 Project workding directory (Browse/Select): 
 
-(...thinking...)
+(...thoughts...)
 
-clone repo will download a dir to your local machine, then create file.Rproj in R Studio, then add-commit-push...
+clone repo will download a dir to your local machine, then create file.Rproj in R Studio, then add-commit-push, get error msg:
 
+remote: error: GH007: Your push would publish a private email address.
+
+remote: You can make your email public or disable this protection by visiting:
+
+remote: http://github.com/settings/emails
+
+(...)
+
+! [remote rejected] master -> master (push declined due to email privacy restrictions)
 
 
 # CapstoneMovieLens
